@@ -1,0 +1,3 @@
+[submodule "code/eprint-2019-1161"]
+	path = code/eprint-2019-1161
+	url = git@github.com:jschanck/eprint-2019-1161.git
