@@ -6,7 +6,7 @@ Artifact associated with the paper:
 **Estimating the Hidden Overheads in the BDGL Lattice Sieving Algorithm**
 _Léo Ducas_
 To Appear at PQcrypto 2022.
-The article is available on this [repository](article.pdf) and soon on the [IACR eprint](https://eprint.iacr.org/).
+The article is available on this [repository](article.pdf) and on the [IACR eprint](https://eprint.iacr.org/2022/922).
 
 
 ## Install
